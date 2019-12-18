@@ -1,5 +1,6 @@
 # Write a speak_to_grandma method.
 
+<<<<<<< HEAD
 def speak_to_grandma (arg ="")
   if arg == ""
     puts "HUH?! SPEAK UP, SONNY!"
@@ -8,6 +9,16 @@ def speak_to_grandma (arg ="")
   else arg = "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
 end  
+=======
+# def speak_to_grandma (arg ="")
+#   if arg == ""
+#     puts "HUH?! SPEAK UP, SONNY!"
+#   elsif arg == "".upcase
+#     puts "NO, NOT SINCE 1938!"
+#   else arg = "I LOVE YOU GRANDMA!"
+#     puts "I LOVE YOU TOO PUMPKIN!"
+# end  
+>>>>>>> 56053e72ba33be8089ee164782547483b3ecc947
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
